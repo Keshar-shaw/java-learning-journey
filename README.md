@@ -26,3 +26,22 @@ To become a skilled Java developer by learning consistently and building project
 
 ---
 ⭐ Thanks for visiting my repository!
+
+
+
+
+
+
+## Day 2
+
+### Topics Learned
+- Scanner Class
+- String Input
+- Integer Input
+- Boolean Input
+- Addition using Scanner
+
+### Programs
+- StringInput.java
+- BooleanInput.java
+- AddTwoNumbers.java
