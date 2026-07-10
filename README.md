@@ -45,3 +45,19 @@ To become a skilled Java developer by learning consistently and building project
 - StringInput.java
 - BooleanInput.java
 - AddTwoNumbers.java
+
+
+
+# Day 3
+
+## Programs
+- Marksheet Calculator
+- CGPA Calculator
+- Meter to Kilometer Converter
+- Check Whether Input is Integer
+
+## Topics Learned
+- Scanner
+- User Input
+- Arithmetic Operations
+- Data Types
