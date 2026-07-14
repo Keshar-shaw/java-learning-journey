@@ -56,8 +56,21 @@ To become a skilled Java developer by learning consistently and building project
 - Meter to Kilometer Converter
 - Check Whether Input is Integer
 
+
+ # Day 4 - Strings Practice
+
 ## Topics Learned
-- Scanner
-- User Input
-- Arithmetic Operations
-- Data Types
+- Convert String to Lowercase
+- Replace Method
+- Detect Double Spaces
+- Detect Triple Spaces
+
+## Programs
+- LowerCase.java
+- ReplaceMethod.java
+- DoubleAndTripleSpace.java
+  
+
+## Reflection
+Today I practiced String methods and learned how to manipulate text using built-in methods.
+
